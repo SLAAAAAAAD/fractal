@@ -1,2 +1,1 @@
-# fractal
-fractals
+i put this up for a friend to look at. i was lazy and pushed everything including the .idea and /out and whatnot. also all the stuff is on master branch instead of main because im also too lazy to fix that
